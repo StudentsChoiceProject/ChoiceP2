@@ -1,8 +1,8 @@
 Task 1
 
-Task 2
+## Task 2
 
-Sorting Reviews
+**Sorting Reviews**
 
 ![Sample Layout for Sorting Reviews](https://github.com/user-attachments/assets/60d47a3d-e819-460b-b02b-90efa84b2fc6)
 
@@ -18,9 +18,9 @@ Acceptance criteria:
 [2.2] As a user, I want to sort reviews by rating from highest to lowest or vice versa, So that I can quickly see the most favorable or the most critical reviews.
 
 Acceptance criteria:
-- The system provides sorting options: "Highest Rated" and "Lowest Rated."
-- Selecting "Highest Rated" sorts reviews in descending order by rating (5-star first).
-- Selecting "Lowest Rated" sorts reviews in ascending order by rating (1-star first).
+- The system provides sorting options: "Highest Rating" and "Lowest Rating."
+- Selecting "Highest Rating" sorts reviews in descending order by rating (5-star first).
+- Selecting "Lowest Rating" sorts reviews in ascending order by rating (1-star first).
 - The selected sorting option updates the displayed reviews instantly.
 - Sorting selection persists within the session unless manually changed.
 
@@ -32,9 +32,10 @@ Acceptance criteria:
 - The selected sorting option updates the displayed reviews instantly.
 - Sorting selection persists within the session unless manually changed.
 
-Filtering Reviews
+**Filtering Reviews**
 
 [2.4] As a user, I want to filter reviews by specific rating values, So that I can see only reviews that match my preferred rating level.
+
 ![Sample Filter by Rating](https://github.com/user-attachments/assets/10cdbcc3-12ea-485a-8451-0aabf8a99eb6)
 
 Acceptance criteria:

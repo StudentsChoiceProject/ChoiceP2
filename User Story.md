@@ -1,6 +1,8 @@
-Task 1
+## User Stories
 
-## Task 2
+# Task 1
+
+# Task 2 - Option to sort reviews by latest, oldest, highest, lowest and most liked and filter them by rating
 
 **Sorting Reviews**
 
@@ -46,11 +48,35 @@ Acceptance criteria:
 - Users can reset filters to see all reviews again.
 - Filtering selection persists within the session unless manually reset.
 
-Task 3
+# Task 3 - Replace description for universities, courses and programs with a link to official website
+
+[3.1] As a user, I want to see a direct link to the official university website instead of a text description, So that I can access the most accurate and up-to-date information.
+
+Acceptance Criteria:
+- The system replaces the university description with a "Visit Official Website" link.
+- Clicking the link opens the official university website in a new tab.
+- The link is displayed prominently in place of the previous text description.
+- If no official website URL is available, a placeholder message is shown (e.g., "Official website not available").
+
+[3.2] As a user, I want to see a direct link to the official course webpage instead of a text description, So that I can get detailed and updated course information.
+
+Acceptance Criteria:
+- The system replaces the course description with a "View Course Details" link.
+- Clicking the link opens the official course webpage in a new tab.
+- The link is clearly visible and easily accessible.
+- If no official course webpage is available, a placeholder message is shown (e.g., "Course details unavailable").
+
+[3.3] As a user, I want to see a direct link to the official program webpage instead of a text description, So that I can explore the program details on the university's website.
+
+Acceptance Criteria:
+- The system replaces the program description with a "View Program Details" link.
+- Clicking the link opens the official program webpage in a new tab.
+- The link is displayed in a user-friendly manner.
+- If no official program webpage is available, a placeholder message is displayed (e.g., "Program details not available").
 
 Task 4
 
-# Task 5 Options for uni listings to switch between with and without logo or background pictures
+# Task 5 - Options for uni listings to switch between with and without logo or background pictures
 As a prospective university student, I want a streamlined way to view university listings on the website so that I can easily scan through the information without being overwhelmed by large logos and background images. Currently, when I search for universities, the visual elements take up a lot of space on my screen, which makes it harder to focus on the essential details like university names and key facts. By having an option to toggle between a detailed visual layout and a minimalist text-only view, I can tailor the interface to my preference—whether I want a quick overview without distractions or a more immersive experience with graphics—ultimately enhancing my overall browsing experience.
 
 

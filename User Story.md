@@ -54,3 +54,21 @@ As a prospective university student, I want a streamlined way to view university
 
 
 Task6
+Tab for helpful links for all listings with option to bookmark#6
+As a prospective or current student, I want to have access to a dedicated tab displaying helpful links related to each university, program, or subject listing.So that I can conveniently explore additional authoritative resources and bookmark important links for future reference during my university selection process.
+
+Acceptance Criteria:
+A new tab titled "Helpful Links" is clearly visible within each university, program, or subject listing page.
+Each helpful link includes:
+A clear and concise title indicating its content.
+Users can bookmark any helpful link by clicking on a bookmark icon next to it.
+Once bookmarked, the icon clearly changes state to indicate the item has been saved.
+Users can view and manage all their bookmarked helpful links within their personal user profile page.
+Users can remove bookmarks directly from either the original listing or from the bookmarked links section.
+
+Example Scenario:
+Lucy is considering the Master of Computer Science program at ANU. She views the listing on the Student Choice website and navigates to the "Helpful Links" tab.
+She finds multiple helpful resources including official program details, subject information and career outcomes.
+Lucy bookmarks the program information and subject information link by clicking the bookmark icon next to each link.
+Later, she revisits her personal profile page, quickly finds her bookmarked resources, and efficiently accesses the links she previously saved.
+

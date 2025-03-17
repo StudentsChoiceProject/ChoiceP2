@@ -11,6 +11,7 @@
 4. The average rating and distribution chart update in real time when new reviews are added or existing reviews are modified.  
 5. The display remains readable and consistent in both light and dark modes.
 
+![Average rating with distribution of ratings](https://github.com/user-attachments/assets/87908168-8f5e-4a82-a188-38fc0b450657)
 
 # Task 2 - Option to sort reviews by latest, oldest, highest, lowest and most liked and filter them by rating
 

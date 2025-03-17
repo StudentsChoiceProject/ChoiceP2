@@ -2,6 +2,16 @@
 
 # Task 1
 
+**[1.1] As a user, I want to see a concise average rating with a clear distribution of individual star ratings, so that I can quickly understand the overall sentiment at a glance.**
+
+**Acceptance Criteria**  
+1. The system displays the overall average rating (e.g., “4.6”) alongside the total number of reviews.  
+2. A visual star component (or similar graphic) reflects the exact average rating.  
+3. A simple chart (e.g., horizontal bars) shows how many 1-star, 2-star, 3-star, 4-star, and 5-star reviews are in the total.  
+4. The average rating and distribution chart update in real time when new reviews are added or existing reviews are modified.  
+5. The display remains readable and consistent in both light and dark modes.
+
+
 # Task 2 - Option to sort reviews by latest, oldest, highest, lowest and most liked and filter them by rating
 
 **Sorting Reviews**

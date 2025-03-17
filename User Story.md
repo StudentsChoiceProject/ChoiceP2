@@ -101,8 +101,23 @@ Acceptance Criteria:
 # Task 5 - Options for uni listings to switch between with and without logo or background pictures
 As a prospective university student, I want a streamlined way to view university listings on the website so that I can easily scan through the information without being overwhelmed by large logos and background images. Currently, when I search for universities, the visual elements take up a lot of space on my screen, which makes it harder to focus on the essential details like university names and key facts. By having an option to toggle between a detailed visual layout and a minimalist text-only view, I can tailor the interface to my preference—whether I want a quick overview without distractions or a more immersive experience with graphics—ultimately enhancing my overall browsing experience.
 
+Acceptance Criteria
 
-Task6
+- Toggle Option Availability: A clearly visible toggle switch or button is available on the university listing page, allowing users to switch between "With Images" and "Text-Only" views.  
+
+- Default View: The default view includes university logos and background images.  
+
+- Text-Only View Behavior: When the user selects the "Text-Only" view, university logos and background images are hidden while preserving essential details such as university names, locations, and descriptions.  
+
+- Persistence of User Preference: The selected view preference is retained while navigating through search results until the user refreshes the page or manually switches back.  
+
+- Responsive Design: The layout should adjust appropriately on different screen sizes (desktop, tablet, mobile) to ensure a user-friendly experience in both views.  
+
+- Performance Considerations: The removal of images should improve page load time and scrolling performance, especially on slower internet connections.  
+
+- Accessibility Compliance: The toggle feature should be accessible via keyboard navigation and screen readers to accommodate all users.  
+
+# Task6
 Tab for helpful links for all listings with option to bookmark#6
 As a prospective or current student, I want to have access to a dedicated tab displaying helpful links related to each university, program, or subject listing.So that I can conveniently explore additional authoritative resources and bookmark important links for future reference during my university selection process.
 

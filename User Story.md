@@ -74,7 +74,18 @@ Acceptance Criteria:
 - The link is displayed in a user-friendly manner.
 - If no official program webpage is available, a placeholder message is displayed (e.g., "Program details not available").
 
-Task 4
+# Task 4 - Light background for logos in dark mode
+
+[4.1] As a user, I want university logos to be displayed on a light background (white or light grey) even in dark mode, So that I can clearly see all logos regardless of their color scheme.
+
+Acceptance Criteria:
+
+- The rectangles containing university logos maintain a white or light grey background in both light and dark modes.
+- Logo containers on university, program, and subject webpages all follow this consistent light background approach.
+- Logos with lighter colors (such as UC logo) remain clearly visible against the background in dark mode.
+- The contrast between the logo and its background meets accessibility standards.
+- The light background for logos appears as a distinct element within the overall dark mode interface.
+- This light background implementation applies uniformly across all university, program, and subject listing pages.
 
 # Task 5 - Options for uni listings to switch between with and without logo or background pictures
 As a prospective university student, I want a streamlined way to view university listings on the website so that I can easily scan through the information without being overwhelmed by large logos and background images. Currently, when I search for universities, the visual elements take up a lot of space on my screen, which makes it harder to focus on the essential details like university names and key facts. By having an option to toggle between a detailed visual layout and a minimalist text-only view, I can tailor the interface to my preference—whether I want a quick overview without distractions or a more immersive experience with graphics—ultimately enhancing my overall browsing experience.

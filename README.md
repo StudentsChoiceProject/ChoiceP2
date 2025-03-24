@@ -1,9 +1,9 @@
 # ChoiceP2
 
-## Working repository
+## Working Repository
 Same as P1 but different branches: https://github.com/StudentsChoiceProject/StudentsChoice/tree/P2-develop
 
-## Proejct
+## Project
 https://github.com/orgs/StudentsChoiceProject/projects/8
 
 ## Issues
@@ -20,3 +20,7 @@ https://drive.google.com/drive/folders/1cir_6cwSUgdYdwXB8t1ntmZN_rW4NBvE
 
 ## Discord
 https://discord.com/channels/1247847844896047145/1265284009408200776
+
+## Notion
+Documents from last semester: https://www.notion.so/studentschoice/Students-Choice-Project-2-de930f9673924f67b087a2ad46f856cd?pvs=46&qid=
+Include Wikis

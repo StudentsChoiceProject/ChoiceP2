@@ -2,14 +2,14 @@
 
 ## Team member
 
-| uid |       Name       | Github username |
-| :-: | :---------------: | :-------------: |
-|    |    Boxuan Lin    |                |
-|    | Zhiyi (Elva) Kang |    u7721436    |
-|    |    Huizhe Ruan    |   Daniel Ruan   |
-|    |                  |                |
-|    |                  |                |
-|    |                  |                |
+|   uid   |       Name       | Github username |
+| :------: | :---------------: | :--------------: |
+| u7705128 |    Boxuan Lin    | Boxuan-Matty-Lin |
+| u7721436 | Zhiyi (Elva) Kang |     u7721436     |
+| u7723366 |    Huizhe Ruan    |   Daniel Ruan   |
+| u7549482 |  Dian Jayasuriya  |     u7549482     |
+| u7757596 |   Jinqiao Jiang   |     osuCarl     |
+| u7579927 |    Yinghan Ye    |     u7579927     |
 
 ## Working Repository
 

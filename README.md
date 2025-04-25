@@ -29,7 +29,8 @@ Starts with P2 in: https://github.com/StudentsChoiceProject/StudentsChoice/pulls
 
 ## Google Docs of Testing
 
-https://docs.google.com/spreadsheets/d/16kJYZZiO2XxfPcMdEJ2YORptlqKRuiYNryE6wokBMP8/edit?gid=0#gid=0
+Sprint 1: https://docs.google.com/spreadsheets/d/16kJYZZiO2XxfPcMdEJ2YORptlqKRuiYNryE6wokBMP8/edit?gid=0#gid=0
+Sprint 2: https://docs.google.com/spreadsheets/d/1BRc4EfhmgJae6mwMEAlTfh3byd775clSk7crf3dDMf4/edit?gid=0#gid=0
 
 ## Resources from Devyani
 

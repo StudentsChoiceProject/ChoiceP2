@@ -38,4 +38,4 @@
 
 ## Communication
 
-- [StudentChoice Discord Channe](https://discord.com/channels/1247847844896047145/1265284009408200776)
+- [StudentChoice Discord channel](https://discord.com/channels/1247847844896047145/1265284009408200776)

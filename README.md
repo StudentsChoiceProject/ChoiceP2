@@ -31,7 +31,7 @@
 
 ### Reflections
 
-- [Sprint 2 Review](https://github.com/StudentsChoiceProject/ChoiceP2/blob/5e484ebcba52297ca1c87187bf6e04da81166b19/Reflections/Sprint%202%20Retro.md)
+- [Sprint 2 Review](https://github.com/StudentsChoiceProject/ChoiceP2/blob/5e484ebcba52297ca1c87187bf6e04da81166b19/Reflections/Sprint%202%20Review.md)
 - [Sprint 2 Retrospective](https://github.com/StudentsChoiceProject/ChoiceP2/blob/5e484ebcba52297ca1c87187bf6e04da81166b19/Reflections/Sprint%202%20Retro.md)
 
 ### Testing

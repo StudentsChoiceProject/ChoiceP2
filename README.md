@@ -36,13 +36,21 @@
 
 ### Testing
 
-- [Feature testing for Sprint 1](https://docs.google.com/spreadsheets/d/16kJYZZiO2XxfPcMdEJ2YORptlqKRuiYNryE6wokBMP8/edit?gid=0#gid=0)
-- [Feature testing for Sprint 2](https://docs.google.com/spreadsheets/d/1BRc4EfhmgJae6mwMEAlTfh3byd775clSk7crf3dDMf4/edit?gid=0#gid=0)
+- [Feature testing for Sprint 1](https://github.com/StudentsChoiceProject/ChoiceP2/blob/main/test%20point/Sprint%201%20Testing%20Sheet%20.xlsx)
+- [Feature testing for Sprint 2](https://github.com/StudentsChoiceProject/ChoiceP2/blob/main/test%20point/Sprint%202%20Testing%20Sheet.xlsx)
+
+### Feature Demo
+- [Feature Demo](https://github.com/StudentsChoiceProject/ChoiceP2/tree/main/feature%20demo)
+
+### Client Feedback
+- [Client Feedback](https://github.com/StudentsChoiceProject/ChoiceP2/tree/main/client%20feedback)
+
 
 ## Resources
 
 - [Layouts for inspiration - Devyani](https://drive.google.com/drive/folders/1cir_6cwSUgdYdwXB8t1ntmZN_rW4NBvE)
 - [Share Drive](https://drive.google.com/drive/folders/1PN4l5kdU2rm26aWHcwXG-CnS1zDTeQ1x?usp=drive_link)
+  
 
 ## Communication
 

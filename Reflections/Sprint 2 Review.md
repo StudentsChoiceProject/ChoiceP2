@@ -3,7 +3,7 @@
 
 ## Sprint Overview
 
-**Sprint Duration:** [Start Date] to [End Date]  
+ 
 **Sprint Goal:** Deliver enhanced user interaction features for the profile bookmarks and destination listings, and fix critical bugs identified from Sprint 1.
 
 ---
@@ -44,16 +44,16 @@
 
 ## Test Documentation
 
-**Link to Detailed Test Documentation:** [Link to test documentation]
+**Link to Detailed Test Documentation:** [[Link to test documentation]](https://github.com/StudentsChoiceProject/ChoiceP2/blob/main/test%20point/Sprint%202%20Testing%20Sheet.xlsx)
 
 - Includes all test cases across features, including category filtering, hover menus, listing pages, visual components, and review filtering enhancements.
 - Covers both functional and edge-case testing.
 
 ---
 
-## Sprint Demo (if applicable)
+## Sprint Demo 
 
-**Demo Link:** [Provide a link to the demo or video if possible]
+**Demo Link:** [link to the demo](https://github.com/StudentsChoiceProject/ChoiceP2/blob/main/feature%20demo/Sprint_2_demo.pdf)
 
 **Summary of Demo:**
 
@@ -87,5 +87,5 @@
 
 ### Unfinished Work
 
-- **Task:** [List any work not completed in this sprint, e.g., "Integration with external API for real-time updates"]
-- **Next Steps:** [Briefly explain what needs to happen next to complete it].
+- **Task:** [Enable user to post for new listings](https://github.com/orgs/StudentsChoiceProject/projects/8?pane=issue&itemId=107344666&issue=StudentsChoiceProject%7CStudentsChoice%7C81) , [Add bookmark support for new listings](https://github.com/orgs/StudentsChoiceProject/projects/8/views/1?pane=issue&itemId=107341541&issue=StudentsChoiceProject%7CStudentsChoice%7C74) ,  
+
